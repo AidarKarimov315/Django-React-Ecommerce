@@ -9,7 +9,7 @@
 ## Setup Locally
 
 ```bash
-git clone https://github.com/Accel-Byte/Ecommerce.git
+git clone https://github.com/AidarKarimov315/Django-React-Ecommerce.git
 cd Ecommerce
 python -m venv venv
 pip install -r requirements.txt
